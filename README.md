@@ -95,7 +95,7 @@ Follow these steps to get the project up and running on your local machine.
 
 1.  **Clone the Repository**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/Fatima-Ebrahim/notes-api
     cd notes-api
     ```
 
